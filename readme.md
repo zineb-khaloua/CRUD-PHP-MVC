@@ -1,7 +1,2 @@
-# Installation du Projet
-
-- Importez le fichier DATABASE/stagiaire.sql dans cette base de données
-
-- lancez le serveur : php -S localhost:8000 -t public 
-
-- -_- 
+# CRUD-PHP-MVC
+"A simple CRUD project structured using the MVC design pattern, featuring a Singleton implementation for database connection and a service container for managing controllers."
