@@ -11,7 +11,7 @@
 
 - Clone the project
 
-- git clone https://votre-repository.git
+- git clone [https://votre-repository.git](https://github.com/zineb-khaloua/CRUD-PHP-MVC.git)
 
 - Create a new database 
 
